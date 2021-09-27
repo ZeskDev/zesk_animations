@@ -6,5 +6,7 @@ client_scripts {
   'config.lua'
 }
 server_scripts {
-  'config.lua'  
+  'config.lua',
+  'server/*.lua'
 }
+version '1.0.0'
