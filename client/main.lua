@@ -173,3 +173,6 @@ function OpenMENU()
                   end
                 )
 end
+RegisterCommand("animations", function(source, args, rawCommand)
+	OpenMENU()
+end)
