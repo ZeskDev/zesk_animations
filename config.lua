@@ -11,6 +11,8 @@ Locales = {
        ['crosshands_animation'] = "Cruzar Brazos",
        ['smoke_animation'] = "Fumar",
        ['handsup_animation'] = "Manos Arriba",
-       ['ragdoll_animation_error_car'] = "No puedes Hacer esto en un vehiculo"
+       ['ragdoll_animation_error_car'] = "No puedes Hacer esto en un vehiculo",
+      ['radio_anim'] = "Radio",
+      ['holster_anim'] = "Pistolera"
    }
 }
