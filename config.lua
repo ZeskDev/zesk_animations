@@ -13,6 +13,7 @@ Locales = {
        ['handsup_animation'] = "Manos Arriba",
        ['ragdoll_animation_error_car'] = "No puedes Hacer esto en un vehiculo",
       ['radio_anim'] = "Radio",
-      ['holster_anim'] = "Pistolera"
+      ['holster_anim'] = "Pistolera",
+      ['walkstyle1'] = "Andar 1"
    }
 }
